@@ -1,1 +1,4 @@
 __pycache__
+build/
+dist/
+simple_python.egg-info/
